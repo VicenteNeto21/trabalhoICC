@@ -1,7 +1,7 @@
 ## Trabalho de ICC
  - Site criado basicamente criado usado uma Framework front-end o Boostrap, recebendo complementos usado javascript, css e html. O site foi instalado na plataforma de maneira gratuita do replit.
  - Hospedagem usada para o projeto: Replit.com
- - Ferramenta Usada para eloborar o relatorio: Overleaf
+ - Ferramenta Usada para eloborar o relatorio: Overleaf (Arquivo criado completamente usado LaTeX).
 ## Abaixo estão as ferramentas usadas para criar o site.
 ### Linguagens Usada no projeto.
 <div style="display: inline_block">
